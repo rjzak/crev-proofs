@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2025-10-17T17:10:44.236591-04:00
+from:
+  id-type: crev
+  id: Cj7JsCKV7-TpTJdmR2cNnDEl-701zafCnU8TJ7exE8M
+  url: https://github.com/rjzak/crev-proofs
+package:
+  source: https://crates.io
+  name: malwaredb-client
+  version: 0.1.3
+  revision: bcef6deba5bccd70d43e275f934527ede3c03fe5
+  digest: 1j7kSGuRCV0kyTOt8cTVDFNTV8TzZH9XplV0Y-6VBjw
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: |-
+  I am the maintainer and so far the sole contributor.
+----- SIGN CREV PROOF -----
+1w7nDAq18K8CAii_VeU-zzQ4eAYGh9uxMFfBjAIlBaCxKhudSpirAz5hpzpZ2JPr_ZytXHoAf51qQSTs3798CQ
+----- END CREV PROOF -----
+
